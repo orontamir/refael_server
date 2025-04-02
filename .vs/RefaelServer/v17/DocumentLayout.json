@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\refaelserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\refaelserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|c:\\oron\\exams\\refael\\server\\refaelserver\\refaelserver\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F78C43-F2FD-42D7-B832-6DE2F6ACFB8B}|RefaelServer\\RefaelServer.csproj|solutionrelative:refaelserver\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "RefaelServer\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:02:09.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefaelServer",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\RefaelServer.csproj",
+              "RelativeDocumentMoniker": "RefaelServer\\RefaelServer.csproj",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\RefaelServer.csproj",
+              "RelativeToolTip": "RefaelServer\\RefaelServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T07:54:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\appsettings.json",
+              "RelativeDocumentMoniker": "RefaelServer\\appsettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\appsettings.json",
+              "RelativeToolTip": "RefaelServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T08:10:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\docker-compose.yml",
+              "RelativeDocumentMoniker": "RefaelServer\\docker-compose.yml",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\docker-compose.yml",
+              "RelativeToolTip": "RefaelServer\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-02T13:59:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RefaelServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RefaelServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T08:46:47.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Program.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Program.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Program.cs",
+              "RelativeToolTip": "RefaelServer\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:07:20.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Services\\ProductService.cs",
+              "RelativeToolTip": "RefaelServer\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:02:28.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Dockerfile",
+              "RelativeDocumentMoniker": "RefaelServer\\Dockerfile",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Dockerfile",
+              "RelativeToolTip": "RefaelServer\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-02T13:56:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "RefaelServer\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:05:28.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Services\\OrderService.cs",
+              "RelativeToolTip": "RefaelServer\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:05:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Services\\LogService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Services\\LogService.cs",
+              "RelativeToolTip": "RefaelServer\\Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:12:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RefaelServer\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:58:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "RefaelServer\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:06:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RefaelServer\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:57:32.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Models\\Order.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Models\\Order.cs",
+              "RelativeToolTip": "RefaelServer\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:57:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RefaelServer\\Models\\Product.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Refael\\Server\\RefaelServer\\RefaelServer\\Models\\Product.cs",
+              "RelativeToolTip": "RefaelServer\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:55:02.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
